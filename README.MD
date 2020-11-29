@@ -1,13 +1,15 @@
-# My backup dotfiles (Arch - bspwm - Polybar - rofi - dunst)
+# Matcha vibe dotfiles (Arch - bspwm - Polybar - rofi - dunst)
 
 ![Thumbnail](./dotfiles.png)
 
 - OS: Arch Linux
 - WM: bspwm + sxhkd
-- [picom](https://github.com/ibhagwan/picom) by ibhagwan
+- Compositer: [picom](https://github.com/ibhagwan/picom) by ibhagwan
 - Bar: Polybar
 - Notification: Dunst
-- Icon-theme: Papirus (orange)
-- GTK-theme: Pop-dark
+- Icon-theme: Papirus (teal)
+- GTK-theme: Matcha-dark-sea
+- Font: Iosevka Nerd Font
+- Colorscheme: pywal
 
 ![Thumbnail](./screenshot.jpg)

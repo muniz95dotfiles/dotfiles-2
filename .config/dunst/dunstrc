@@ -12,8 +12,8 @@ separator_height = 2
 padding = 10
 horizontal_padding = 40
 frame_width = 0
-frame_color = "#e78a4e"
-separator_color = "#292929"
+frame_color = "#021311"
+separator_color = "#021311"
 
 font = Iosevka Nerd Font Bold 10
 
@@ -37,7 +37,7 @@ corner_radius = 5
 icon_position = left
 max_icon_size = 50
 
-icon_path = /usr/share/icons/Papirus-Dark-Custom/48x48/actions/:/usr/share/icons/Papirus-Dark-Custom/48x48/apps/:/usr/share/icons/Papirus-Dark-Custom/48x48/devices/:/usr/share/icons/Papirus-Dark-Custom/48x48/emblems/:/usr/share/icons/Papirus-Dark-Custom/48x48/emotes/:/usr/share/icons/Papirus-Dark-Custom/48x48/mimetypes/:/usr/share/icons/Papirus-Dark-Custom/48x48/places/:/usr/share/icons/Papirus-Dark-Custom/48x48/status/
+icon_path = /usr/share/icons/Papirus-Dark/48x48/actions/:/usr/share/icons/Papirus-Dark/48x48/apps/:/usr/share/icons/Papirus-Dark/48x48/devices/:/usr/share/icons/Papirus-Dark/48x48/emblems/:/usr/share/icons/Papirus-Dark/48x48/emotes/:/usr/share/icons/Papirus-Dark/48x48/mimetypes/:/usr/share/icons/Papirus-Dark/48x48/places/:/usr/share/icons/Papirus-Dark/48x48/status/
 
 browser = google-chrome-stable
 
@@ -53,15 +53,15 @@ context = ctrl+shift+period
 
 [urgency_low]
 timeout = 1
-background = "#292929"
+background = "#021311"
 foreground = "#f9f9f9"
 
 [urgency_normal]
 timeout = 3
-background = "#292929"
+background = "#021311"
 foreground = "#f9f9f9"
 
 [urgency_critical]
 timeout = 0
-background = "#292929"
+background = "#021311"
 foreground = "#f9f9f9"

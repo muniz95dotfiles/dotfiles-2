@@ -159,4 +159,4 @@ super + x
 #  notify-send -a maim "Took a screenshot (area)."
 
 super + control + c
-    /home/vu/.config/polybar/scripts/ibus-manager.sh toggle
+    /home/vu/.scripts/ibus-manager.sh toggle

@@ -45,7 +45,7 @@ textbox-prompt-colon {
 	expand: 						false;
 	str: 							" Goodbye! V ";
 	background-color: 				@accent;
-	text-color: 					@background;
+	text-color: 					@accent;
     padding:                        12px 10px 0px 10px;
 }
 
