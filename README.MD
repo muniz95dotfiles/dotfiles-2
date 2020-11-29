@@ -1,4 +1,4 @@
-# Matcha vibe dotfiles (Arch - bspwm - Polybar - rofi - dunst)
+# Matcha vibes dotfiles (Arch - bspwm - Polybar - rofi - dunst)
 
 ![Thumbnail](./dotfiles.png)
 
